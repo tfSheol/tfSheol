@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on specific Discord bot to gotcha all guild events for SPQR's website
+- 🌱 I’m currently learning mastering Golang, Rust & other obscure languages
+
+<p align="center" vertical-align="bottom">
+  <img src="https://github-readme-stats.vercel.app/api?username=tfSheol&show_icons=true&hide=prs&cache_seconds=86400&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfSheol&layout=compact&theme=tokyonight&show_icons=true">
+</p>
+
 <!--
 **tfSheol/tfSheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
