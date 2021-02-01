@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://teddyfontaine.fr"><img src='https://icones8.fr/vue-static/landings/animated-icons-new/icons/color/quote/quote.svg' alt="Me" title="Me" height='55px'/></a>　
-  <a href="https://sheol.fr"><img src='https://icones8.fr/vue-static/landings/animated-icons-new/icons/color/light-on/light-on.svg' alt="Blog" title="Blog" height='55px'/></a>　
-  <a href="https://teddyfontaine.fr/portfolio"><img src='https://icones8.fr/vue-static/landings/animated-icons-new/icons/color/rocket/rocket.svg' alt="Projects" title="Projects" height='55px'/></a>　
-  <a href="https://twitter.com/sheolfr"><img src='https://icones8.fr/vue-static/landings/animated-icons-new/icons/color/bell/bell.svg' alt="Updates" title="Updates" height='55px'/></a>
+  <a href="https://teddyfontaine.fr" target="_blank"><img src='https://icones8.fr/vue-static/landings/animated-icons-new/icons/color/quote/quote.svg' alt="Me" title="Me" height='55px'/></a>　
+  <a href="https://sheol.fr" target="_blank"><img src='https://icones8.fr/vue-static/landings/animated-icons-new/icons/color/light-on/light-on.svg' alt="Blog" title="Blog" height='55px'/></a>　
+  <a href="https://teddyfontaine.fr/portfolio" target="_blank"><img src='https://icones8.fr/vue-static/landings/animated-icons-new/icons/color/rocket/rocket.svg' alt="Projects" title="Projects" height='55px'/></a>　
+  <a href="https://twitter.com/sheolfr" target="_blank"><img src='https://icones8.fr/vue-static/landings/animated-icons-new/icons/color/bell/bell.svg' alt="Updates" title="Updates" height='55px'/></a>
 </p>
 
 ### Hi there 👋
