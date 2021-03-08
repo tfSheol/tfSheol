@@ -20,7 +20,7 @@
 ### 🚀 Work on
 
 <p align="center" vertical-align="top">
-  <a href="https://wakatime.com/"<img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-wakatime-metrics.svg"></a>
+  <a href="https://wakatime.com/"><img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-wakatime-metrics.svg"></a>
   <a href="https://github.com/tfSheol?tab=stars"><img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-starred-metrics.svg"></a>
 </p>
 
