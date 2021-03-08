@@ -17,7 +17,7 @@
   <img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-languages-metrics.svg">
 </p></a>
 
-### 🚀 Work on
+### 🚀 Working on
 
 <p align="center">
   <a href="https://wakatime.com/"><img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-wakatime-metrics.svg"></a>
