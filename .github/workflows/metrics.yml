@@ -1,5 +1,5 @@
 # https://github.com/lowlighter/metrics
-name: Metrics
+name: Metrics-Repo
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -19,3 +19,4 @@ jobs:
           repositories: 100
           repositories_forks: no
           repositories_affiliations: owner, collaborator, organization_member
+          plugin_lines: yes
