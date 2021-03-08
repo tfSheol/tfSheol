@@ -1,0 +1,18 @@
+# https://github.com/lowlighter/metrics
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  push: {branches: ["master"]}
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          base: header, repositories       # Only display "header" and "repositories" sections
+          repositories: 100                # Query only last 100 repositories
+          repositories_forks: no           # Don't include forks
+          repositories_affiliations: owner # Display only repositories where user is owner
