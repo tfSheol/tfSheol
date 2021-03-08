@@ -17,4 +17,3 @@ jobs:
           repositories: 100
           repositories_forks: no
           repositories_affiliations: owner, collaborator, organization_member
-          plugin_lines: yes
