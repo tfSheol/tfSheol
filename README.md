@@ -10,10 +10,16 @@
 - 🔭 I’m currently working on specific Discord bot to gotcha all guild events for SPQR's website
 - 🌱 I’m currently learning mastering Golang, Rust & other obscure languages
 
-<p align="center" vertical-align="bottom">
+### 🏆 My Github stats
+
+<a href="https://profile-summary-for-github.com/user/tfsheol"><p align="center" vertical-align="bottom">
   <img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-repo-metrics.svg">
   <img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-languages-metrics.svg">
-</p>
+</p></a>
+
+### 🚀 Work on
+
+
 
 <!--
 **tfSheol/tfSheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
