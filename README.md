@@ -12,16 +12,16 @@
 
 ### 🏆 My Github stats
 
-<a href="https://profile-summary-for-github.com/user/tfsheol"><p align="center" vertical-align="top">
-  <img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-repo-metrics.svg">
-  <img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-languages-metrics.svg">
+<a href="https://profile-summary-for-github.com/user/tfsheol"><p align="center">
+  <img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-repo-metrics.svg">
+  <img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-languages-metrics.svg">
 </p></a>
 
 ### 🚀 Work on
 
-<p align="center" vertical-align="top">
-  <a href="https://wakatime.com/"><img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-wakatime-metrics.svg"></a>
-  <a href="https://github.com/tfSheol?tab=stars"><img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-starred-metrics.svg"></a>
+<p align="center">
+  <a href="https://wakatime.com/"><img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-wakatime-metrics.svg"></a>
+  <a href="https://github.com/tfSheol?tab=stars"><img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-starred-metrics.svg"></a>
 </p>
 
 <!--
