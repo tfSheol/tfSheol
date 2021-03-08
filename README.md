@@ -12,14 +12,17 @@
 
 ### 🏆 My Github stats
 
-<a href="https://profile-summary-for-github.com/user/tfsheol"><p align="center" vertical-align="bottom">
+<a href="https://profile-summary-for-github.com/user/tfsheol"><p align="center" vertical-align="top">
   <img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-repo-metrics.svg">
   <img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-languages-metrics.svg">
 </p></a>
 
 ### 🚀 Work on
 
-
+<p align="center" vertical-align="top">
+  <img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-starred-metrics.svg">
+  <img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-wakatime-metrics.svg">
+</p>
 
 <!--
 **tfSheol/tfSheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
