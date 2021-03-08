@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning mastering Golang, Rust & other obscure languages
 
 <p align="center" vertical-align="bottom">
-  <img width="450" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-repo-metrics.svg">
-  <img width="450" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-languages-metrics.svg">
+  <img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-repo-metrics.svg">
+  <img width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-languages-metrics.svg">
 </p>
 
 <!--
