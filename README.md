@@ -5,7 +5,7 @@
   <a href="https://twitter.com/sheolfr" target="_blank"><img src='https://icones8.fr/vue-static/landings/animated-icons-new/icons/color/bell/bell.svg' alt="Updates" title="Updates" height='55px'/></a>
 </p>
 
-### Hi there 👋
+### 👋 Hi there
 
 - 🔭 I’m currently working on specific Discord bot to gotcha all guild events for SPQR's website
 - 🌱 I’m currently learning mastering Golang, Rust & other obscure languages
