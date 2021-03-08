@@ -14,7 +14,6 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-repo-metrics.svg
-          config_gemoji: yes
           base: repositories
           repositories: 100
           repositories_forks: no
