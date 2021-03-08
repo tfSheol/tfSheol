@@ -13,7 +13,9 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, repositories       # Only display "header" and "repositories" sections
-          repositories: 100                # Query only last 100 repositories
-          repositories_forks: no           # Don't include forks
-          repositories_affiliations: owner # Display only repositories where user is owner
+          filename: github-repo-metrics.svg
+          config_gemoji: yes
+          base: repositories
+          repositories: 100
+          repositories_forks: no
+          repositories_affiliations: owner, collaborator, organization_member
