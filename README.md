@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning mastering Golang, Rust & other obscure languages
 
 <p align="center" vertical-align="bottom">
-  <img src="https://github-readme-stats.vercel.app/api?username=tfSheol&show_icons=true&cache_seconds=86400&theme=tokyonight&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfSheol&layout=compact&theme=tokyonight&show_icons=true&langs_count=8">
+  <img src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-repo-metrics.svg">
+  <img src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-languages-metrics.svg">
 </p>
 
 <!--
