@@ -25,6 +25,16 @@
   <a href="https://github.com/tfSheol?tab=stars"><img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-starred-metrics.svg"></a>
 </p>
 
+<details>
+<summary>🌐 Websites</summary>
+
+```bash
+$ echo $status
+Work in progress...
+```
+
+</details>
+
 <!--
 **tfSheol/tfSheol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
