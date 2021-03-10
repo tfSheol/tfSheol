@@ -26,7 +26,7 @@
 </p>
 
 <details>
-<summary>🌐 Websites</summary>
+<summary>🌐 Websites</summary>  
 
 ```bash
 $ echo $status
