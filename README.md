@@ -10,6 +10,7 @@
 
 - 🔭 I’m currently working on specific Discord bot to gotcha all guild events for SPQR's website
 - 🌱 I’m currently learning mastering Golang, Rust & other obscure languages
+- 📖 My preferred tool ⇢ [https://landscape.cncf.io/](https://landscape.cncf.io/)
 
 ### 🏆 My Github stats
 
