@@ -30,8 +30,15 @@
 <summary>🌐 Websites</summary>  
 
 ```bash
-$ echo $status
-Work in progress...
+$ cat /home/sheol/websites.txt
+https://teddyfontaine.fr                                    (Work in progress...)
+https://sheol.fr                                            (Work in progress...)
+https://unreadlio.fr / unreadlio.com                        (Work in progress...)
+https://roadtobeer.fr / roadtobeer.com                      (Work in progress...)
+https://deliberries.io / deliberries.fr / deliberries.eu    (Work in progress...)
+https://spqr-gw2.fr                                         (Work in progress...)
+https://spicia.fr                                           (Work in progress...)
+https://gw2.live                                            (Work in progress...)
 ```
 
 </details>
