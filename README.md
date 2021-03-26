@@ -26,6 +26,8 @@
   <a href="https://github.com/tfSheol?tab=stars"><img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-starred-metrics.svg"></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=tfSheol&color=lightgrey&style=flat-square)
+
 <details>
 <summary>🌐 Websites status</summary>  
 
