@@ -27,7 +27,7 @@
 </p>
 
 <details>
-<summary>🌐 Websites</summary>  
+<summary>🌐 Websites status</summary>  
 
 ```bash
 $ cat /home/sheol/websites_status.txt
