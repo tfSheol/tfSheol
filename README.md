@@ -33,10 +33,14 @@
 $ cat /home/sheol/websites_status.txt
 
 https://teddyfontaine.fr                                    (Work in progress...)
+https://todo.teddyfontaine.fr                               (frontend: deployed / backend: standby)
+
 https://sheol.fr                                            (Work in progress...)
+
 https://unreadlio.fr / unreadlio.com                        (Work in progress...)
 https://roadtobeer.fr / roadtobeer.com                      (Work in progress...)
 https://deliberries.io / deliberries.fr / deliberries.eu    (Work in progress...)
+
 https://spqr-gw2.fr                                         (Work in progress...)
 https://spicia.fr                                           (Work in progress...)
 https://gw2.live                                            (Work in progress...)
