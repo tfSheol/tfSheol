@@ -6,7 +6,7 @@
   <a href="https://www.npmjs.com/~sheol" target="_blank"><img src='assets/npm2.svg' alt="Npm" title="npm" height='55px'/></a>
 </p>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/tfsheol"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=tfsheol&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+  <a href="https://www.buymeacoffee.com/tfsheol"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=tfsheol&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a Beer" title="beer"  height='40px'></a>
 </p>
 
 ### 👋 Hi there
