@@ -5,6 +5,9 @@
   <a href="https://twitter.com/sheolfr" target="_blank"><img src='assets/bell.svg' alt="Updates" title="Updates" height='55px'/></a>　
   <a href="https://www.npmjs.com/~sheol" target="_blank"><img src='assets/npm2.svg' alt="Npm" title="npm" height='55px'/></a>
 </p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/tfsheol"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=tfsheol&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+</p>
 
 ### 👋 Hi there
 
