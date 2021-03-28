@@ -3,10 +3,8 @@
   <a href="https://sheol.fr" target="_blank"><img src='assets/bulb.svg' alt="Blog" title="Blog" height='55px'/></a>　
   <a href="https://teddyfontaine.fr/portfolio" target="_blank"><img src='assets/rocket.svg' alt="Projects" title="Projects" height='55px'/></a>　
   <a href="https://twitter.com/sheolfr" target="_blank"><img src='assets/bell.svg' alt="Updates" title="Updates" height='55px'/></a>　
-  <a href="https://www.npmjs.com/~sheol" target="_blank"><img src='assets/npm2.svg' alt="Npm" title="npm" height='55px'/></a>
-</p>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/tfsheol"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=tfsheol&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a Beer" title="beer"  height='40px'></a>
+  <a href="https://www.npmjs.com/~sheol" target="_blank"><img src='assets/npm2.svg' alt="Npm" title="npm" height='55px'/></a>　
+  <a href="https://www.buymeacoffee.com/tfsheol" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=tfsheol&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a Beer" title="beer"  height='40px'></a>
 </p>
 
 ### 👋 Hi there
