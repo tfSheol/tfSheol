@@ -1053,25 +1053,25 @@
                                 <span class="name">
                                     backend-nestjs-v2
                                 </span>
-                                <div class="bar" style="width: 59.25599999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 50.816%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">
-                                    74%
+                                    64%
                                 </span>
                             </div>
                             <div class="entry">
                                 <span class="name">
                                     rx-dashboard
                                 </span>
-                                <div class="bar" style="width: 18.016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 26.432%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">
-                                    23%
+                                    33%
                                 </span>
                             </div>
                             <div class="entry">
                                 <span class="name">
                                     Terminal
                                 </span>
-                                <div class="bar" style="width: 2.736%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.752%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">
                                     3%
                                 </span>
