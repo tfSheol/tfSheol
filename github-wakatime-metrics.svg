@@ -1083,36 +1083,36 @@
                                 <span class="name">
                                     backend-nestjs-v2
                                 </span>
-                                <div class="bar" style="width: 72.616%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 76%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">
-                                    91%
+                                    95%
                                 </span>
                             </div>
                             <div class="entry">
                                 <span class="name">
                                     Terminal
                                 </span>
-                                <div class="bar" style="width: 5.64%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">
-                                    7%
-                                </span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">
-                                    rx-dashboard
-                                </span>
-                                <div class="bar" style="width: 1.4880000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.88%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">
                                     2%
                                 </span>
                             </div>
                             <div class="entry">
                                 <span class="name">
-                                    Unknown Project
+                                    build-ci-docker
                                 </span>
-                                <div class="bar" style="width: 0.256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.96%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">
-                                    0%
+                                    1%
+                                </span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">
+                                    rx-dashboard
+                                </span>
+                                <div class="bar" style="width: 0.9039999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">
+                                    1%
                                 </span>
                             </div>
                         </div>
