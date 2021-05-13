@@ -1124,23 +1124,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">backend-nestjs-v2</span>
-                                <div class="bar" style="width: 44.06399999999999%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">55%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">rx-deploiement</span>
-                                <div class="bar" style="width: 19.544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">24%</span>
+                                <div class="bar" style="width: 60.288000000000004%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">75%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">unpack</span>
-                                <div class="bar" style="width: 7.808%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">10%</span>
+                                <div class="bar" style="width: 11.015999999999998%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">14%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Terminal</span>
-                                <div class="bar" style="width: 6.248%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">8%</span>
+                                <div class="bar" style="width: 5.144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">projet_B4_FR</span>
+                                <div class="bar" style="width: 2.544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                         </div>
                     </section>
