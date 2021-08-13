@@ -10,6 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          plugin_traffic: yes
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-repo-metrics.svg
           base: repositories
