@@ -20,9 +20,8 @@ jobs:
           plugin_reactions_ignored: bot
           plugin_notable: yes
           plugin_notable_repositories: yes
-          plugin_discussions: yes
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
           plugin_people_thanks: Hallelouia, MeowSH, AlexMog
-          plugin_people_types: followers
+          plugin_people_types: followers, thanks
