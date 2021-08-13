@@ -1,0 +1,23 @@
+# https://github.com/lowlighter/metrics
+name: Custom-Widget
+on:
+  schedule: [{cron: "0 11 * * *"}]
+  push: {branches: ["master"]}
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-custom-widget.svg
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_limit_issues: 100
+          plugin_reactions_details: percentage
+          plugin_reactions_ignored: bot
+          plugin_notable: yes
+          plugin_notable_repositories: yes
+          plugin_topics: yes

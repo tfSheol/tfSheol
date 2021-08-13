@@ -14,3 +14,4 @@ jobs:
           filename: github-achievement.svg
           base: ""
           plugin_achievements: yes
+          plugin_achievements_threshold: C

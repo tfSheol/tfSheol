@@ -20,6 +20,13 @@
   <img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-languages-metrics-indepth.svg">
 </p></a>
 
+### 🎉 Achievements
+
+<a href="https://metrics.lecoq.io/about/tfsheol"><p align="center">
+  <img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-custom-widget.svg">
+  <img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-achievement-compact.svg">
+</p></a>
+
 ### 🚀 Working on
 
 <p align="center">
