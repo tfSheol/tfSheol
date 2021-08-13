@@ -15,6 +15,6 @@ jobs:
           filename: github-repo-metrics.svg
           base: repositories
           config_padding: 1%
-          repositories: 100
+          repositories: 999
           repositories_forks: no
           repositories_affiliations: owner, collaborator
