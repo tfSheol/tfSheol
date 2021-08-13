@@ -17,7 +17,7 @@
 
 <a href="https://profile-summary-for-github.com/user/tfsheol"><p align="center">
   <img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-repo-metrics.svg">
-  <img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-languages-metrics.svg">
+  <img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-languages-metrics-indepth.svg">
 </p></a>
 
 ### 🚀 Working on
