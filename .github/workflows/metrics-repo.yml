@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-repo-metrics.svg
           base: repositories
-          config_padding: 1%, 1%
+          config_padding: 1%
           repositories: 100
           repositories_forks: no
           repositories_affiliations: owner, collaborator
