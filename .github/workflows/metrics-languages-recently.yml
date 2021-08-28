@@ -9,6 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
@@ -18,4 +19,5 @@ jobs:
           plugin_languages_details: lines, percentage
           plugin_languages_sections: recently-used
           plugin_languages_indepth: yes
+          plugin_languages_limit: 2
           delay: 120
