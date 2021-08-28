@@ -12,8 +12,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-languages-metrics-recently.svg
-          base: ""
           plugin_languages: yes
+          plugin_languages_indepth: yes
           plugin_languages_sections: recently-used
           plugin_languages_details: bytes-size, percentage
           delay: 120
