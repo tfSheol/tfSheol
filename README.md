@@ -1,10 +1,33 @@
+<h3 align="center">
+  Welcome to Teddy's profile!
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=DevSecOps%20engineer;Full-stack%20web%20and%20app%20developer;Self-taught%20UI%2FUX%20Designer;15%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</p>
+
 <p align="center">
   <a href="https://teddyfontaine.fr" target="_blank"><img src='assets/quote.svg' alt="Me" title="Me" height='55px'/></a>　
   <a href="https://sheol.fr" target="_blank"><img src='assets/bulb.svg' alt="Blog" title="Blog" height='55px'/></a>　
   <a href="https://teddyfontaine.fr/portfolio" target="_blank"><img src='assets/rocket.svg' alt="Projects" title="Projects" height='55px'/></a>　
   <a href="https://twitter.com/sheolfr" target="_blank"><img src='assets/bell.svg' alt="Updates" title="Updates (over Twitter)" height='55px'/></a>　
   <a href="https://www.npmjs.com/~sheol" target="_blank"><img src='assets/npm2.svg' alt="Npm" title="npm" height='55px'/></a>　
-  <a href="https://www.buymeacoffee.com/tfsheol" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=⇢&emoji=☕&slug=tfsheol&button_colour=21262d&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=000000" alt="Buy me a coffe" title="Buy me a coffe (1€)"  height='55px'></a>
+<!--   <a href="https://www.buymeacoffee.com/tfsheol" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=⇢&emoji=☕&slug=tfsheol&button_colour=21262d&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=000000" alt="Buy me a coffe" title="Buy me a coffe (1€)"  height='55px'></a> -->
+</p>
+
+<p align="center">
+  <a href="https://github.com/tfSheol?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/tfSheol"/></a>
+  <a href="https://github.com/tfSheol?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/tfSheol?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://discord.gg/4JWSURuc3B" alt="Discord" title="Sheolless Discord server">
+    <img src="https://img.shields.io/discord/797556694166798346?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tfSheol&theme=monokai-metallian&hide_border=true"/>
+  </a>
 </p>
 
 ### 👋 Hi there
