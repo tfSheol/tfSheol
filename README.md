@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Teddy's profile!
+  Welcome to Sheol's profile!
 </h3>
 
 <p align="center">
