@@ -1372,8 +1372,8 @@
                                 <mask id="project-bar">
                                     <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                                 </mask>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="0" height="8" fill="#28A745"/>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="0" height="8" fill="#6F42C1"/>
+                                <rect mask="url(#project-bar)" x="0" y="0" width="0" height="8" fill="#238636"/>
+                                <rect mask="url(#project-bar)" x="0" y="0" width="0" height="8" fill="#8957e5"/>
                                 <rect mask="url(#project-bar)" x="0" y="0" width="460" height="8" fill="#d1d5da"/>
                             </svg>
                         </div>
@@ -1410,8 +1410,8 @@
                                 <mask id="project-bar">
                                     <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                                 </mask>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="0" height="8" fill="#28A745"/>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="0" height="8" fill="#6F42C1"/>
+                                <rect mask="url(#project-bar)" x="0" y="0" width="0" height="8" fill="#238636"/>
+                                <rect mask="url(#project-bar)" x="0" y="0" width="0" height="8" fill="#8957e5"/>
                                 <rect mask="url(#project-bar)" x="0" y="0" width="460" height="8" fill="#d1d5da"/>
                             </svg>
                         </div>
@@ -1448,8 +1448,8 @@
                                 <mask id="project-bar">
                                     <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                                 </mask>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="0" height="8" fill="#28A745"/>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="0" height="8" fill="#6F42C1"/>
+                                <rect mask="url(#project-bar)" x="0" y="0" width="0" height="8" fill="#238636"/>
+                                <rect mask="url(#project-bar)" x="0" y="0" width="0" height="8" fill="#8957e5"/>
                                 <rect mask="url(#project-bar)" x="0" y="0" width="460" height="8" fill="#d1d5da"/>
                             </svg>
                         </div>
