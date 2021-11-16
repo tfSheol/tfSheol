@@ -1395,9 +1395,11 @@
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
                 <h2 class="field">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/></svg>
-      Achievements
-    </h2>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                        <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
+                    </svg>
+                    Achievements
+                </h2>
                 <div class="row">
                     <section class="achievements compact largeable-flex-wrap">
                         <div class="achievement s largeable-width-half">
@@ -1427,16 +1429,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Master</span> worker
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        13
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix">Master</span>
+                                    worker
+                                    <div class="value-wrapper">
+                                        <div class="value">13</div>
+                                    </div>
+                                </div>
                                 <div class="text">Joined 13 organizations</div>
                             </div>
                         </div>
@@ -1466,16 +1464,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Master</span> polyglot
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        26
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix">Master</span>
+                                    polyglot
+                                    <div class="value-wrapper">
+                                        <div class="value">26</div>
+                                    </div>
+                                </div>
                                 <div class="text">Using 26 different programming languages</div>
                             </div>
                         </div>
@@ -1489,7 +1483,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="59.99486652977413 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.037303216974685 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1509,16 +1503,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Super</span> member
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        8
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix">Super</span>
+                                    member
+                                    <div class="value-wrapper">
+                                        <div class="value">8</div>
+                                    </div>
+                                </div>
                                 <div class="text">Registered 8 years ago</div>
                             </div>
                         </div>
@@ -1532,7 +1522,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.0275 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="14.105 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1548,17 +1538,13 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Super</span> stargazer
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        681
-                      </div>
-                    </div>
-                  
-                </div>
-                                <div class="text">Starred 681 repositories</div>
+                                    <span class="prefix">Super</span>
+                                    stargazer
+                                    <div class="value-wrapper">
+                                        <div class="value">682</div>
+                                    </div>
+                                </div>
+                                <div class="text">Starred 682 repositories</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1594,20 +1580,13 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Great</span> developer
-                  
-                    <span class="gh">
-                      ranked 560k out of 80m users
-                    </span>
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        42
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix">Great</span>
+                                    developer
+                                    <span class="gh">ranked 560k out of 80m users</span>
+                                    <div class="value-wrapper">
+                                        <div class="value">42</div>
+                                    </div>
+                                </div>
                                 <div class="text">Published 42 public repositories</div>
                             </div>
                         </div>
@@ -1644,16 +1623,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Great</span> forker
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        5
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix">Great</span>
+                                    forker
+                                    <div class="value-wrapper">
+                                        <div class="value">5</div>
+                                    </div>
+                                </div>
                                 <div class="text">Forked 5 public repositories</div>
                             </div>
                         </div>
@@ -1682,16 +1657,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix">Great</span> manager
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        2
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix">Great</span>
+                                    manager
+                                    <div class="value-wrapper">
+                                        <div class="value">2</div>
+                                    </div>
+                                </div>
                                 <div class="text">Created 2 user projects</div>
                             </div>
                         </div>
@@ -1724,16 +1695,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Deployer
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        137
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Deployer
+                                    <div class="value-wrapper">
+                                        <div class="value">137</div>
+                                    </div>
+                                </div>
                                 <div class="text">Repositories have been deployed 137 times</div>
                             </div>
                         </div>
@@ -1782,20 +1749,13 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Influencer
-                  
-                    <span class="gh">
-                      ranked 114k out of 80m users
-                    </span>
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        57
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Influencer
+                                    <span class="gh">ranked 114k out of 80m users</span>
+                                    <div class="value-wrapper">
+                                        <div class="value">57</div>
+                                    </div>
+                                </div>
                                 <div class="text">Followed by 57 users</div>
                             </div>
                         </div>
@@ -1828,16 +1788,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Gister
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        6
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Gister
+                                    <div class="value-wrapper">
+                                        <div class="value">6</div>
+                                    </div>
+                                </div>
                                 <div class="text">Published 6 gists</div>
                             </div>
                         </div>
@@ -1868,16 +1824,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Packager
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        2
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Packager
+                                    <div class="value-wrapper">
+                                        <div class="value">2</div>
+                                    </div>
+                                </div>
                                 <div class="text">Created 2 packages</div>
                             </div>
                         </div>
@@ -1906,16 +1858,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Follower
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        34
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Follower
+                                    <div class="value-wrapper">
+                                        <div class="value">34</div>
+                                    </div>
+                                </div>
                                 <div class="text">Following 34 users</div>
                             </div>
                         </div>
@@ -1954,16 +1902,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Contributor
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        11
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Contributor
+                                    <div class="value-wrapper">
+                                        <div class="value">11</div>
+                                    </div>
+                                </div>
                                 <div class="text">Opened 11 pull requests</div>
                             </div>
                         </div>
@@ -2006,20 +1950,13 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Inspirer
-                  
-                    <span class="gh">
-                      ranked 2.53m out of 238m repositories
-                    </span>
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        2
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Inspirer
+                                    <span class="gh">ranked 2.53m out of 238m repositories</span>
+                                    <div class="value-wrapper">
+                                        <div class="value">2</div>
+                                    </div>
+                                </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
                         </div>
@@ -2054,16 +1991,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Maintainer
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        2
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Maintainer
+                                    <div class="value-wrapper">
+                                        <div class="value">2</div>
+                                    </div>
+                                </div>
                                 <div class="text">Maintaining a repository with 2 stars</div>
                             </div>
                         </div>
@@ -2100,16 +2033,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Explorer
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        ☆
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Explorer
+                                    <div class="value-wrapper">
+                                        <div class="value">☆</div>
+                                    </div>
+                                </div>
                                 <div class="text">Starred a topic on GitHub Explore</div>
                             </div>
                         </div>
@@ -2149,16 +2078,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Automator
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        ☆
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Automator
+                                    <div class="value-wrapper">
+                                        <div class="value">☆</div>
+                                    </div>
+                                </div>
                                 <div class="text">Use GitHub Actions to automate profile updates</div>
                             </div>
                         </div>
@@ -2192,16 +2117,12 @@
                             </div>
                             <div class="info">
                                 <div class="title">
-                  <span class="prefix"></span> Infographile
-                  
-                  
-                    <div class="value-wrapper">
-                      <div class="value">
-                        ☆
-                      </div>
-                    </div>
-                  
-                </div>
+                                    <span class="prefix"></span>
+                                    Infographile
+                                    <div class="value-wrapper">
+                                        <div class="value">☆</div>
+                                    </div>
+                                </div>
                                 <div class="text">Fervent supporter of metrics</div>
                             </div>
                         </div>
