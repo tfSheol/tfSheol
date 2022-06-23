@@ -16,16 +16,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tfSheol?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/tfSheol"/></a>
-  <a href="https://github.com/tfSheol?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/tfSheol?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://discord.gg/4JWSURuc3B" alt="Discord" title="Sheolless Discord server">
+  <a href="https://github.com/sheoldev4you?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sheoldev4you"/></a>
+  <a href="https://github.com/sheoldev4you?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sheoldev4you?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://discord.gg/4JWSURuc3B" alt="Discord" title="Sheoldev4you Discord server">
     <img src="https://img.shields.io/discord/797556694166798346?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 <p align="center">
-    <img title="🔥 streak" alt="tfSheol's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tfSheol&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 streak" alt="sheoldev4you's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sheoldev4you&theme=monokai-metallian&hide_border=true"/>
 </p>
 
 ### 👋 Hi there
@@ -38,26 +38,26 @@
 ### 🏆 My Github stats
 
 <a href="https://profile-summary-for-github.com/user/tfsheol"><p align="center">
-  <img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-repo-metrics.svg">
-  <img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-languages-metrics-indepth.svg">
+  <img align=top width="400" src="https://raw.githubusercontent.com/sheoldev4you/sheoldev4you/main/github-repo-metrics.svg">
+  <img align=top width="400" src="https://raw.githubusercontent.com/sheoldev4you/sheoldev4you/main/github-languages-metrics-indepth.svg">
 </p>
 
 ### 🎉 Achievements & Peoples
 
 <p align="center">
-  <a href="https://github.com/tfSheol?tab=followers">
-    <img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-custom-widget.svg">
+  <a href="https://github.com/sheoldev4you?tab=followers">
+    <img align=top width="400" src="https://raw.githubusercontent.com/sheoldev4you/sheoldev4you/main/github-custom-widget.svg">
   </a>
   <a href="https://metrics.lecoq.io/about/tfsheol">
-    <img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-achievement-compact.svg">
+    <img align=top width="400" src="https://raw.githubusercontent.com/sheoldev4you/sheoldev4you/main/github-achievement-compact.svg">
   </a>
 </p></a>
 
 ### 🚀 Working on
 
 <p align="center">
-  <a href="https://wakatime.com/@tfSheol"><img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-wakatime-metrics.svg"></a>
-  <a href="https://github.com/tfSheol?tab=stars"><img align=top width="400" src="https://raw.githubusercontent.com/tfSheol/tfSheol/main/github-starred-metrics.svg"></a>
+  <a href="https://wakatime.com/@sheoldev4you"><img align=top width="400" src="https://raw.githubusercontent.com/sheoldev4you/sheoldev4you/main/github-wakatime-metrics.svg"></a>
+  <a href="https://github.com/sheoldev4you?tab=stars"><img align=top width="400" src="https://raw.githubusercontent.com/sheoldev4you/sheoldev4you/main/github-starred-metrics.svg"></a>
 </p>
 
 <details>
