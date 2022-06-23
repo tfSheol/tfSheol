@@ -10,7 +10,7 @@
   <a href="https://teddyfontaine.fr" target="_blank"><img src='assets/quote.svg' alt="Me" title="Me" height='55px'/></a>　
   <a href="https://sheol.fr" target="_blank"><img src='assets/bulb.svg' alt="Blog" title="Blog" height='55px'/></a>　
   <a href="https://teddyfontaine.fr/portfolio" target="_blank"><img src='assets/rocket.svg' alt="Projects" title="Projects" height='55px'/></a>　
-  <a href="https://twitter.com/sheolfr" target="_blank"><img src='assets/bell.svg' alt="Updates" title="Updates (over Twitter)" height='55px'/></a>　
+  <a href="https://twitter.com/sheoldev4you" target="_blank"><img src='assets/bell.svg' alt="Updates" title="Updates (over Twitter)" height='55px'/></a>　
   <a href="https://www.npmjs.com/~sheol" target="_blank"><img src='assets/npm2.svg' alt="Npm" title="npm" height='55px'/></a>　
 <!--   <a href="https://www.buymeacoffee.com/tfsheol" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=⇢&emoji=☕&slug=tfsheol&button_colour=21262d&font_colour=ffffff&font_family=Cookie&outline_colour=ffffff&coffee_colour=000000" alt="Buy me a coffe" title="Buy me a coffe (1€)"  height='55px'></a> -->
 </p>
