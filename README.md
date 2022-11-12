@@ -20,8 +20,8 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sheoldev4you"/></a>
   <a href="https://github.com/sheoldev4you?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sheoldev4you?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://discord.gg/4JWSURuc3B" alt="Discord" title="Sheoldev4you Discord server">
-    <img src="https://img.shields.io/discord/797556694166798346?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://discord.gg/tmEeqH3u5D" alt="Discord" title="🏮 Sheol.live">
+    <img src="https://img.shields.io/discord/991428445772972123?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 <p align="center">
