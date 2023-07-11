@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rsalmei/alive-progress</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>valeriansaliou/vigil</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eidam/cf-workers-status-page</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.</div>
