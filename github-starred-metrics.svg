@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>moment/luxon</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⏱ A library for working with dates and times in JS</div>
@@ -76,7 +76,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abelriboulot/onnxt5</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Summarization, translation, sentiment-analysis, text-generation and more at blazing speed using a T5 version implemented in ONNX.</div>
@@ -129,7 +129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>intel/neural-compressor</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Provide unified APIs for SOTA model compression techniques, such as low precision (INT8/INT4/FP4/NF4) quantization, sparsity, pruning, and knowledge distillation on mainstream AI frameworks such as TensorFlow, PyTorch, and ONNX Runtime.</div>
